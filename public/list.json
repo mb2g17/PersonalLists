@@ -1,0 +1,266 @@
+[
+	{
+		"name": "Games",
+		"description": "A list of games",
+		"columns": {
+			"name": 8,
+			"score": 1,
+			"platform": 2,
+			"description": 9
+		},
+		"sublists":
+		[
+			{
+				"name": "Games To Play",
+				"description": "These are games that I wish to play in the future, when I get around to it.",
+				"items":
+				[
+					{
+						"name": {
+							"text": "Astral Chain",
+							"hidden": false,
+							"link": "https://kotaku.com/astral-chain-is-a-new-switch-action-game-from-platinum-1832604377"
+						},
+						"platform": {
+							"text": "Switch",
+							"hidden": false,
+							"link": ""
+						},
+						"score": {
+							"text": "0",
+							"hidden": false,
+							"link": ""
+						},
+						"description": {
+							"text": "Looks really nice",
+							"hidden": true,
+							"link": ""
+						}
+					},
+					{
+						"name": {
+							"text": "Bayonetta",
+							"hidden": false,
+							"link": "https://en.wikipedia.org/wiki/Bayonetta"
+						},
+						"platform": {
+							"text": "PC",
+							"hidden": false,
+							"link": ""
+						},
+						"score": {
+							"text": "0",
+							"hidden": false,
+							"link": ""
+						},
+						"description": {
+							"text": "Just bought it on Steam 75% off, so I wanna try this!",
+							"hidden": true,
+							"link": ""
+						}
+					}
+				]
+			},
+			{
+				"name": "Dropped Games",
+				"description": "These are a list of games I've dropped. That doesn't mean I didn't like them, it just means I'm not playing them anymore.",
+				"items":
+				[
+					{
+						"name": {
+							"text": "Final Fantasy V",
+							"hidden": false,
+							"link": "https://en.wikipedia.org/wiki/Final_Fantasy_V"
+						},
+						"score": {
+							"text": "7",
+							"hidden": false,
+							"link": ""
+						},
+						"platform": {
+							"text": "PS1",
+							"hidden": false,
+							"link": ""
+						},
+						"description": {
+							"text": "This game was really hard for me back then! I just never got around to beating it.",
+							"hidden": true,
+							"link": ""
+						}
+					},
+					{
+						"name": {
+							"text": "N",
+							"hidden": false,
+							"link": "https://en.wikipedia.org/wiki/N_(video_game)"
+						},
+						"score": {
+							"text": "8",
+							"hidden": false,
+							"link": ""
+						},
+						"platform": {
+							"text": "PC",
+							"hidden": false,
+							"link": ""
+						},
+						"description": {
+							"text": "This is a fun platformer game, but some levels are really difficult.",
+							"hidden": true,
+							"link": ""
+						}
+					}
+				]
+			},
+			{
+				"name": "Finished Games",
+				"description": "These are a list of games I've finished. Not always 100%, but finished the main story, at least.",
+				"items":
+				[
+					{
+						"name": {
+							"text": "Ys: Memories of Celceta",
+							"hidden": false,
+							"link": "https://en.wikipedia.org/wiki/Ys:_Memories_of_Celceta"
+						},
+						"score": {
+							"text": "8",
+							"hidden": false,
+							"link": ""
+						},
+						"platform": {
+							"text": "PC",
+							"hidden": false,
+							"link": ""
+						},
+						"description": {
+							"text": "Got this on sale. A remake of the fourth entry in the series. It's my first modern Ys game! First thing's first, the gameplay. I feel it's the best Ys has done so far (then again, I haven't played 7, 8 or Ark yet). It feels so good to shield/dodge at just the right time and watch the game slow down! Plus, it's really dynamic and fast-paced. You can't jump, but I liked the skills and extra skills. All in all, I loved the gameplay; it was so refreshing and satisfying and I really hope the later modern Ys games are like that, if not better. I got the best weapon and armour in the game, fully upgraded, and I fully levelled my party, and it felt so amazing to run through enemies and kill everything in one hit! In terms of the party system, I didn't think much of it. I preferred it, gameplay wise, when it was just Adol. I felt I had more control. However, being in a party makes it less lonely! However, the AI isn't that great, so that feeling doesn't last long! The story is what I expected it to be; it's Ys, it keeps it simple yet good enough to make it interesting and make you want to keep playing. I do admit though, the ending felt too quick, but at least it was canonical (Adol never logged anything past the ending of the game in his books). I did like the bit at the end where Adol was the only one left to throw the mask into the volcano, although I felt Falcom could've made that ending segment a bit more dramatic. Fighting a phantom version of Gruda was cool, because his moveset felt very similar to mine, almost as if I was fighting myself, but what would've been more awesome would've been a three-phase boss of actual Gruda, who escaped Iris and wants to put Adol through one final test, with an intense rock remix of the main intro theme of the game! Speaking of music, I felt it was the worst part of this Ys entry. I often missed the intense, awesome rock music that you get from other titles like Origin or Oath. There were some, but often it felt a little generic. I love the intro song though; that's the best song for me! To be honest, speaking generally in terms of Ys, I would like it more if there was some kind of motif for the entire Ys series that played in every game, similar to Zelda. The controls were good. The best controls are when you don't think about it when you use them. It's nothing amazing, but they didn't screw it up either. The graphics were also decent. For a PSP Vita game brought to PC, it was pretty good. I prefer this art style to the previous art styles that Ys adopted; it feels more \"anime\". All in all, I'm really liking modern Ys! I can definitely see the differences between modern and classic. If I had to pick one, I'd say modern, although they both have their pros and cons.",
+							"hidden": true,
+							"link": ""
+						}
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Films",
+		"description": "A list of films",
+		"columns": {
+			"name":  8,
+			"score":  3,
+			"description": 9
+		},
+		"sublists":
+		[
+			{
+				"name": "Films To Watch",
+				"description": "These are films I want to watch in the future.",
+				"items":
+				[
+					{
+						"name": {
+							"text": "Fight Club",
+							"hidden": false,
+							"link": "https://en.wikipedia.org/wiki/Fight_Club"
+						},
+						"score": {
+							"text": "0",
+							"hidden": false,
+							"link": ""
+						},
+						"description": {
+							"text": "A cult classic",
+							"hidden": true,
+							"link": ""
+						}
+					}
+				]
+			},
+			{
+				"name": "Watched Films",
+				"description": "These are the films I have watched already.",
+				"items":
+				[
+					{
+						"name": {
+							"text": "Back to the Future",
+							"hidden": false,
+							"link": "https://en.wikipedia.org/wiki/Back_to_the_Future"
+						},
+						"score": {
+							"text": "7",
+							"hidden": false,
+							"link": ""
+						},
+						"description": {
+							"text": "Really good film! Childhood classic",
+							"hidden": true,
+							"link": ""
+						}
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Books",
+		"description": "A list of books",
+		"columns": {
+			"name":  8,
+			"score":  3,
+			"description": 9
+		},
+		"sublists":
+		[
+			{
+				"name": "Books To Read",
+				"description": "These are books I want to read in the future.",
+				"items":
+				[
+					{
+						"name": {
+							"text": "The Art of Computer Programming",
+							"hidden": 0,
+							"link": "https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming"
+						},
+						"score": {
+							"text": "0",
+							"hidden": false,
+							"link": ""
+						},
+						"description": {
+							"text": "I hear every programmer needs to read this.",
+							"hidden": true,
+							"link": ""
+						}
+					}
+				]
+			},
+			{
+				"name": "Read Books",
+				"description": "These are the books I've read already.",
+				"items":
+				[
+					{
+						"name": {
+							"text": "The Hobbit",
+							"hidden": false,
+							"link": "https://en.wikipedia.org/wiki/The_Hobbit"
+						},
+						"score": {
+							"text": "7",
+							"hidden": false,
+							"link": ""
+						},
+						"description": {
+							"text": "Good book.",
+							"hidden": true,
+							"link": ""
+						}
+					}
+				]
+			}
+		]
+	}
+]
