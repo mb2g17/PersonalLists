@@ -3,19 +3,13 @@
     <div @click="show = !show">
 
         <!-- If we should show the text -->
-        <template v-if="show">
-            Click to show/hide
-        </template>
+        <template v-if="show">Click to show/hide</template>
 
         <template v-else>
 
             <!-- If text is empty -->
-            <template v-if="text">
-                {{ text }}
-            </template>
-            <template v-else>
-                Empty!
-            </template>
+            <template v-if="text">{{ text }}</template>
+            <template v-else>Empty!</template>
 
         </template>
 

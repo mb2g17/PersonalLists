@@ -1,6 +1,6 @@
 <template>
 
-    <table>
+    <table style="white-space: pre-wrap;">
         <!-- Header -->
         <thead>
             <!-- Title -->
@@ -41,9 +41,7 @@
                         </template>
 
                         <!-- If the item is not hidden -->
-                        <template v-else>
-                            {{ item[column].text }}
-                        </template>
+                        <template v-else>{{ item[column].text }}</template>
 
                     </OptionalLink>
 
