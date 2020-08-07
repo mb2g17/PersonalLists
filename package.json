@@ -20,7 +20,7 @@
     "bootstrap-vue": "^2.0.0-rc.24",
     "lodash": "^4.17.11",
     "node-sass": "^4.9.0",
-    "prismjs": "^1.16.0",
+    "prismjs": "^1.21.0",
     "sass-loader": "^7.1.0",
     "vue-prism-editor": "^0.2.1",
     "vue-template-compiler": "^2.6.10"
